@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+#main{
+    color:rgb(255, 255, 255);
+    background: rgb(0,0,0);
+    background: linear-gradient(to top, rgba(0,0,0,1) 25%, rgba(88,88,88,1) 75%);  
+    font-family: 'RocknRoll One', sans-serif;   
+}
+
+#title{
+    font-size: 400%;
+    width:50vmax;
+}
+
+.center{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: flex; 
+}
+
+#img-div{
+    text-align: center;
+}
+
+#tribute-link{
+    color:#bebebe
+}
